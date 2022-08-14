@@ -1,6 +1,6 @@
 ### Rayy
 
-#### Haloooo
+#### Hello I am Rayy
 
 Still Learning & Intentions 😁😀😉
 
