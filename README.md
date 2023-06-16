@@ -8,4 +8,4 @@ Still Learning & Intentions 😁😀😉
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=goznt)
 
-![Profile views](https://gpvc.arturio.dev/goznt)
+371 views
