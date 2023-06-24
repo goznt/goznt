@@ -8,6 +8,8 @@ Still Learning & Intentions 😁😀😉
 
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
+<br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ketut-gede-rai-wistika-putra-095303237/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
